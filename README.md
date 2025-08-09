@@ -3,6 +3,8 @@
 Aplicación de ejemplo para entrega de paquetes. La versión inicial permite iniciar
 sesión únicamente mediante Google Sign-In usando Firebase Authentication.
 
+Además, se otorgará una tarjeta electrónica de descuento: el envío número 11 será gratis.
+
 ## Estructura
 
 - `app/pubspec.yaml` – dependencias de Flutter y configuración del proyecto.
