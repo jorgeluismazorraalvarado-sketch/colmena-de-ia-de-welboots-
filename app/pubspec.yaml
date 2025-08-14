@@ -1,0 +1,13 @@
+name: entrega_paquetes
+version: 0.1.0
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  google_sign_in: ^6.1.5
+  firebase_auth: ^5.0.0
+  firebase_core: ^3.0.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
