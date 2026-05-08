@@ -17,3 +17,14 @@ y configurar un proyecto de Firebase con autenticación de Google habilitada.
 flutter pub get
 flutter run
 ```
+
+## Instalar Flutter (Linux)
+
+Si al ejecutar ves `flutter: command not found`, instala Flutter con el script
+incluido en este repositorio:
+
+```
+bash scripts/install_flutter.sh
+source "$HOME/.bashrc"
+flutter --version
+```
